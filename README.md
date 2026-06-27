@@ -1,4 +1,4 @@
-# Smart Expense Study
+# Smart Expense
 
 A personal Android learning project based on the open-source Ivy Wallet application.
 
